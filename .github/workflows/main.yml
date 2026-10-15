@@ -107,10 +107,12 @@
             - { env: "lilygo-t-watch-s3"          }
             - { env: "lilygo-t-watch-ultra"       }
             - { env: "reaper"                     }
+            - { env: "seeedstudio-esp32s3-touch-147" }
             - { env: "seeedstudio-reterminal-d1001" }
             - { env: "seeedstudio-reterminal-e1001" }
             - { env: "seeedstudio-reterminal-sticky" }
             - { env: "seeedstudio-sensecap"       }
+            - { env: "seeedstudio-wio-tracker-l2" }
             - { env: "smoochiee-board"            }
             - { env: "Marauder-v4-OG"             }
             - { env: "Marauder-v61"               }
@@ -128,6 +130,7 @@
             - { env: "elecrow-35Bv2_2"            }
             - { env: "elecrow-esp32p4-7in"        }
             - { env: "elecrow-esp32s3-5in"        }
+            - { env: "elecrow-thinknode-m9"       }
             - { env: "waveshare-esp32-s3-lcd-147" }
             - { env: "waveshare-esp32-c5-lcd-147" }
             - { env: "waveshare-esp32-c6-lcd-147" }
